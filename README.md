@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Event Place](https://github.com/LegendaryGhost/eventplace)
 
-- 🌱 I’m currently learning **Prestashop** and **Symfony**
+- 🌱 I’m currently learning **Prestashop**
 
 - 📫 How to reach me **rihantiana000@gmail.com**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/rihantiana000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rihantiana000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
