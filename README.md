@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Event Place](https://github.com/LegendaryGhost/eventplace)
 
-- 🌱 I’m currently learning **Prestashop**
+- 🌱 I’m currently learning **Prestashop** and **Symfony**
 
 - 📫 How to reach me **rihantiana000@gmail.com**
 
