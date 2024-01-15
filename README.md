@@ -18,6 +18,7 @@
 
 <p>I got other soft and hard skills 😉😁</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendaryghost&show_icons=true&locale=en&layout=compact" alt="legendaryghost" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=legendaryghost&show_icons=true&locale=en" alt="legendaryghost" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendaryghost&show_icons=true&locale=en&layout=compact" alt="legendaryghost" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=legendaryghost&show_icons=true&locale=en" alt="legendaryghost" />
+</p>
