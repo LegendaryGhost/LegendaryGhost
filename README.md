@@ -1,14 +1,7 @@
 <!-- [![MasterHead](https://img.freepik.com/free-photo/development-opportunity-strategy-improvement-word_53876-13771.jpg?w=740&t=st=1681386623~exp=1681387223~hmac=5f26af85f5108a78798c6b78aff8d236a1b0fdb4818ed699a1e497ed21862fac)](https://rishavchanda.io) -->
-<style>
-@media (max-width: 600px) {
-   .responsive-grid {
-        grid-template-columns: 1fr;
-    }
-}
-</style>
 <h1 align="center">Hi 👋, I'm Rihantiana Mbolatsiory</h1>
 <h3 align="center">An IT University's student</h3>
-<div class="responsive-grid" style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
+<div style="display: grid; grid-template-columns: 1fr 2fr; grid-gap: 10px;">
 <div style="padding: 20px;">
 - 🔭 I’m currently working on [Smile-craft](https://github.com/LegendaryGhost/smile-craft)
 
