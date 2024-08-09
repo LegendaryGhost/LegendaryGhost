@@ -11,12 +11,7 @@
 
 - ⚡ Fun fact **I always find lazy but smart ways to do things**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rihantiana000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rihantiana000" height="30" width="40" /></a>
-</p>
-
-<p>I got other soft and hard skills 😉😁</p>
+<p>I've got other soft and hard skills 😉😁</p>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legendaryghost&show_icons=true&locale=en&layout=compact" alt="legendaryghost" />
