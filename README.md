@@ -42,8 +42,10 @@
   </a>
 </div>
 
-###
+<h2 style="margin-bottom: -20px;">My contributions:</h2>
 
-<img src="https://raw.githubusercontent.com/LegendaryGhost/LegendaryGhost/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegendaryGhost/LegendaryGhost/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegendaryGhost/LegendaryGhost/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
